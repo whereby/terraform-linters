@@ -1,6 +1,11 @@
 name: release
 
-on: workflow_dispatch
+on:
+  pull_request:
+  push:
+    # run only against tags
+    tags:
+      - "*"
 
 permissions:
   contents: write
