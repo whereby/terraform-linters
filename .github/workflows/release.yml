@@ -1,11 +1,6 @@
 name: release
 
-on:
-  push:
-    branches:
-    - '!*'
-    tags:
-    - v*.*.*
+on: workflow_dispatch
 
 permissions:
   contents: write
