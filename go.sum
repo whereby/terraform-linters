@@ -48,8 +48,8 @@ github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock v0
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock v0.55.0/go.mod h1:vB2GH9GAYYJTO3mEn8oYwzEdhlayZIdQz6zdzgUIRvA=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.55.0 h1:0s6TxfCu2KHkkZPnBfsQ2y5qia0jl3MMrmBhu3nCOYk=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.55.0/go.mod h1:Mf6O40IAyB9zR/1J8nGDDPirZQQPbYJni8Yisy7NTMc=
-github.com/Masterminds/semver/v3 v3.4.0 h1:Zog+i5UMtVoCU8oKka5P7i9q9HgrJeGzI9SA1Xbatp0=
-github.com/Masterminds/semver/v3 v3.4.0/go.mod h1:4V+yj/TJE1HU9XfppCwVMZq3I84lprf4nC11bSS5beM=
+github.com/Masterminds/semver/v3 v3.5.0 h1:kQceYJfbupGfZOKZQg0kou0DgAKhzDg2NZPAwZ/2OOE=
+github.com/Masterminds/semver/v3 v3.5.0/go.mod h1:4V+yj/TJE1HU9XfppCwVMZq3I84lprf4nC11bSS5beM=
 github.com/agext/levenshtein v1.2.3 h1:YB2fHEn0UJagG8T1rrWknE3ZQzWM06O8AMAatNn7lmo=
 github.com/agext/levenshtein v1.2.3/go.mod h1:JEDfjyjHDjOF/1e4FlBE/PkbqA9OfWu2ki2W0IB5558=
 github.com/alessio/shellescape v1.4.1 h1:V7yhSDDn8LP4lc4jS8pFkt0zCnzVJlG5JXy9BVKJUX0=
@@ -414,8 +414,8 @@ github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
 github.com/terraform-linters/tflint-plugin-sdk v0.25.0 h1:U96ixXntCt65MSZhwCtk2Djt/D3woVnLvGLCQqD38C0=
 github.com/terraform-linters/tflint-plugin-sdk v0.25.0/go.mod h1:3v8vo4qQuyRYav4ec4mJbHgoaQQmN/dHiDBFaFvpy04=
-github.com/terraform-linters/tflint-ruleset-terraform v0.14.1 h1:0uSuuILyh2XPNHxHofcNWGS8N3MTknDrm+lGGzPpcHA=
-github.com/terraform-linters/tflint-ruleset-terraform v0.14.1/go.mod h1:XLQZt7/7evJXEFQhLmQ5ztJKG+GZyzD21VPIcNeM+mU=
+github.com/terraform-linters/tflint-ruleset-terraform v0.15.0 h1:VoC2ergxblaVCG0smUH/jlkY9POcGX7mjfi+BapeG18=
+github.com/terraform-linters/tflint-ruleset-terraform v0.15.0/go.mod h1:jVekCuHqeWHFrEt+50bdNBgaikyM/8v2pP49c/3nkXc=
 github.com/theupdateframework/go-tuf v0.7.0 h1:CqbQFrWo1ae3/I0UCblSbczevCCbS31Qvs5LdxRWqRI=
 github.com/theupdateframework/go-tuf v0.7.0/go.mod h1:uEB7WSY+7ZIugK6R1hiBMBjQftaFzn7ZCDJcp1tCUug=
 github.com/theupdateframework/go-tuf/v2 v2.4.2-0.20260407074541-7e8f69f906ef h1:jJac5InhEfD0Z46/d5RayZjoavf/se7bPZpOgg8GLrM=
