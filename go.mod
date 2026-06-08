@@ -1,6 +1,6 @@
 module github.com/terraform-linters/tflint
 
-go 1.25.8
+go 1.26.3
 
 require (
 	github.com/agext/levenshtein v1.2.3
@@ -26,7 +26,7 @@ require (
 	github.com/sourcegraph/jsonrpc2 v0.2.1
 	github.com/spf13/afero v1.15.0
 	github.com/terraform-linters/tflint-plugin-sdk v0.25.0
-	github.com/terraform-linters/tflint-ruleset-terraform v0.14.1
+	github.com/terraform-linters/tflint-ruleset-terraform v0.15.0
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/zclconf/go-cty v1.18.1
 	github.com/zclconf/go-cty-debug v0.0.0-20240509010212-0d6042c53940
@@ -50,7 +50,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.31.0 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.55.0 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.55.0 // indirect
-	github.com/Masterminds/semver/v3 v3.4.0 // indirect
+	github.com/Masterminds/semver/v3 v3.5.0 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.41.7 // indirect
