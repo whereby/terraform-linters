@@ -402,8 +402,8 @@ github.com/stretchr/testify v1.12.1 h1:EuwCh5fleGS7H32xRwO3wRGT7DxrDhLAT6FF8MpWD
 github.com/stretchr/testify v1.12.1/go.mod h1:MDEgiDPPsNp5cuIrHPPCyornHKgEVbtFUmoNlxoYthg=
 github.com/terraform-linters/tflint-plugin-sdk v0.25.0 h1:U96ixXntCt65MSZhwCtk2Djt/D3woVnLvGLCQqD38C0=
 github.com/terraform-linters/tflint-plugin-sdk v0.25.0/go.mod h1:3v8vo4qQuyRYav4ec4mJbHgoaQQmN/dHiDBFaFvpy04=
-github.com/terraform-linters/tflint-ruleset-terraform v0.16.1 h1:Untdk8cOVxvFzzeL9ujC8rWl1zP2hnqZXD3vfE6GIqs=
-github.com/terraform-linters/tflint-ruleset-terraform v0.16.1/go.mod h1:BoDpkPCnm1UP0muvtMYi3sXOeP2Rmz4/KmGxATjMZUo=
+github.com/terraform-linters/tflint-ruleset-terraform v0.17.0 h1:+sH1pIdRgheoQ6uYcWaXzNa5mH95y2lPiXWatvDBzv0=
+github.com/terraform-linters/tflint-ruleset-terraform v0.17.0/go.mod h1:5a6cfF9WsWGYsFdFGAVU3HWgr29jiZtyiFGQpnJBfy0=
 github.com/theupdateframework/go-tuf v0.7.0 h1:CqbQFrWo1ae3/I0UCblSbczevCCbS31Qvs5LdxRWqRI=
 github.com/theupdateframework/go-tuf v0.7.0/go.mod h1:uEB7WSY+7ZIugK6R1hiBMBjQftaFzn7ZCDJcp1tCUug=
 github.com/theupdateframework/go-tuf/v2 v2.4.2 h1:w7976/W8uTwlsegP5nRymlpjPgrwSh+AXUf85is6nJk=
